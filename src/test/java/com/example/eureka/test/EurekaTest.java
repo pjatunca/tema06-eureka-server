@@ -8,7 +8,7 @@ public class EurekaTest {
 
 	@Test
 	void prueba01() {
-		int resultado = 10; // funcion1()
+		int resultado = 20; // suma(15,5)
 		assertEquals(20, resultado);
 	}
 	
